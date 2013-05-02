@@ -1,11 +1,11 @@
 package uk.co.jacekk.bukkit.glowool;
 
-import net.minecraft.server.v1_5_R2.EnumSkyBlock;
-import net.minecraft.server.v1_5_R2.World;
+import net.minecraft.server.v1_5_R3.EnumSkyBlock;
+import net.minecraft.server.v1_5_R3.World;
 
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.craftbukkit.v1_5_R2.CraftWorld;
+import org.bukkit.craftbukkit.v1_5_R3.CraftWorld;
 
 public class LightingHelper {
 	
